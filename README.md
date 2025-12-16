@@ -20,11 +20,6 @@ CryPD is a lightweight command-line password manager written in Python. It allow
    git clone https://github.com/patchOK/CryPD.git
    ```
    
-    Navigate to the project directory:
-   ```bash
-   cd CryPD
-   ```
-
 2. Install dependencies:
    ```bash
    pip install cryptography
