@@ -61,4 +61,4 @@ The vault is decrypted only in memory after the correct master password is provi
 This project is intended for educational and personal use. No guarantee is provided regarding suitability for production or high-security environments.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License, see the LICENSE file for details.
