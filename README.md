@@ -25,7 +25,7 @@ CryPD is a lightweight command-line password manager written in Python. It allow
    cd CryPD
    ```
 
-Install dependencies:
+2. Install dependencies:
    ```bash
    pip install cryptography
    ```
